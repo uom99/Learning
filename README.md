@@ -1,2 +1,2 @@
 # Learning
-#####JAVA,C,Python,DeepLearning 학습
+##### JAVA,C,Python,DeepLearning 학습
